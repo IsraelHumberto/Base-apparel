@@ -1,0 +1,28 @@
+.input__container {
+    position: relative;
+    max-width: 444px;
+    width: 100%;
+}
+
+.input__container .input{
+    outline: none;
+    padding: 19px 108px 19px 32px;
+    background-color: transparent;
+    border: 1px solid #ce98985d;
+    border-radius: 50px;
+    width: 100%;
+    color: #ce9898;
+}
+.input__container .input::placeholder{
+    color: #ce9898;
+    line-height: 28px;
+}
+.input_button {
+    width: 100px; 
+    height: 56px;
+    border: none;
+    background: linear-gradient(to right, #F8BFBF, #EE8B8B);
+    border-radius: 50px;
+    position: absolute;
+    right: 0;
+}

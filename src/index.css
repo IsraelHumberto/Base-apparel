@@ -32,3 +32,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+.App {
+	background: url('images/bg-pattern-desktop.svg') ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
